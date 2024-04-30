@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@pypi/beautifulsoup4": "^4.6.1",
+    "csv": "^6.3.6",
+    "numpy": "^0.0.1",
+    "pandas": "^0.0.3",
+    "requests": "^0.3.0",
+    "streamlit-component-lib": "^2.0.0"
+  }
+}
